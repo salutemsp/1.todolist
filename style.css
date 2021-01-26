@@ -1,0 +1,19 @@
+h1{
+    color: aqua;
+    text-align: center;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+   
+}
+
+.list{display: flex;
+    justify-content: center;
+    
+}
